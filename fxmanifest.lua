@@ -9,6 +9,8 @@
 fx_version "cerulean"
 game "gta5"
 
+this_is_a_map 'yes'
+
 description 'YUPPz WORKSHOP CFX'
 this_is_a_map 'yes'
 
